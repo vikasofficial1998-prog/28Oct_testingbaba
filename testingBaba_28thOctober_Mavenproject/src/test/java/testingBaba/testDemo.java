@@ -14,6 +14,7 @@ public class testDemo {
 	{
 
 		WebDriver driver = new EdgeDriver();
+		driver.get("https://testingbaba.com/old/");
 	}
 
 }
